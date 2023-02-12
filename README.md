@@ -6,7 +6,7 @@ Tài khoản admin: admin    mật khẩu: ad12345
 Tài khoản user:  trongtuan@gmail.com   mật khẩu: 
 
 3. Link github
-Đang cập nhật..
+https://github.com/tuandtvt/KTPMUD
 
 4. Hướng dẫn cài đặt
 Đang cập nhật...
