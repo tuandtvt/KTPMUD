@@ -1,11 +1,15 @@
-Link đến sản phẩm
-Đang cập nhật....
+1. Link web
+Đang cập nhật...
 
-Tên các loại tài khoản
+2. Tài khoản các loại user
 Tài khoản admin: admin    mật khẩu: ad12345
-Tài khoản user:  trongtuan@gmail.com   mật khẩu: trongtuan
-Link github
+Tài khoản user:  trongtuan@gmail.com   mật khẩu: 
+
+3. Link github
 Đang cập nhật..
-Hướng dẫn cài đặt source code
-Đang cập nhật....
+
+4. Hướng dẫn cài đặt
+Đang cập nhật...
+
+5. Link Wordpress 
 https://et3260.wordpress.com/2022/11/11/nhom-20-project/
