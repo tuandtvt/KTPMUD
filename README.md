@@ -3,7 +3,7 @@
 
 2. Tài khoản các loại user
 Tài khoản admin: admin    mật khẩu: ad12345
-Tài khoản user:  trongtuan@gmail.com   mật khẩu: 
+Tài khoản user:  trongtuan@gmail.com   mật khẩu: trongtuan
 
 3. Link github
 https://github.com/tuandtvt/KTPMUD
