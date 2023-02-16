@@ -14,7 +14,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
-        "camara": "Tiêu chuẩn sân 5",
+        "kichthuocgon": "Tiêu chuẩn sân 5",
         "camaraFront": "Có",
         "cpu": "Nhân tạo",
         "ram": "Động lực",
@@ -39,7 +39,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
-        "camara": "Tiêu chuẩn sân 5",
+        "kichthuocgon": "Tiêu chuẩn sân 5",
         "camaraFront": "Có",
         "cpu": "Nhân tạo",
         "ram": "Động lực",
@@ -64,7 +64,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
-        "camara": "Tiêu chuẩn sân 5",
+        "kichthuocgon": "Tiêu chuẩn sân 5",
         "camaraFront": "Có",
         "cpu": "Nhân tạo",
         "ram": "Động lực",
@@ -89,7 +89,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
-        "camara": "Tiêu chuẩn sân 5",
+        "kichthuocgon": "Tiêu chuẩn sân 5",
         "camaraFront": "Có",
         "cpu": "Nhân tạo",
         "ram": "Adidas",
@@ -115,7 +115,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
-        "camara": "Tiêu chuẩn sân 5",
+        "kichthuocgon": "Tiêu chuẩn sân 5",
         "camaraFront": "Có",
         "cpu": "Nhân tạo",
         "ram": "Động lực",
@@ -140,7 +140,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
-        "camara": "Tiêu chuẩn sân 5",
+        "kichthuocgon": "Tiêu chuẩn sân 5",
         "camaraFront": "Có",
         "cpu": "Nhân tạo",
         "ram": "Adidas",
@@ -165,7 +165,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 7",
         "denchieusang": "Trắng",
-        "camara": "Tiêu chuẩn sân 7",
+        "kichthuocgon": "Tiêu chuẩn sân 7",
         "camaraFront": "Có",
         "cpu": "Thật",
         "ram": "Adidas",
@@ -190,7 +190,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 7",
         "denchieusang": "Trắng",
-        "camara": "Tiêu chuẩn sân 7",
+        "kichthuocgon": "Tiêu chuẩn sân 7",
         "camaraFront": "Có",
         "cpu": "Thật",
         "ram": "Adidas",
@@ -214,7 +214,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 7",
         "denchieusang": "Vàng",
-        "camara": "Tiêu chuẩn sân 7",
+        "kichthuocgon": "Tiêu chuẩn sân 7",
         "camaraFront": "Có",
         "cpu": "Thật",
         "ram": "Adidas",
@@ -239,7 +239,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 7",
         "denchieusang": "Vàng",
-        "camara": "Tiêu chuẩn sân 7",
+        "kichthuocgon": "Tiêu chuẩn sân 7",
         "camaraFront": "Có",
         "cpu": "Thật",
         "ram": "Động lực",
@@ -264,7 +264,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 7",
         "denchieusang": "Vàng",
-        "camara": "Tiêu chuẩn sân 7",
+        "kichthuocgon": "Tiêu chuẩn sân 7",
         "camaraFront": "Có",
         "cpu": "Nhân tạo",
         "ram": "Động lực",
@@ -289,7 +289,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 7",
         "denchieusang": "Vàng",
-        "camara": "Tiêu chuẩn sân 7",
+        "kichthuocgon": "Tiêu chuẩn sân 7",
         "camaraFront": "Có",
         "cpu": "Nhân tạo",
         "ram": "Adidas",
@@ -313,7 +313,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 11",
         "denchieusang": "Trắng",
-        "camara": "Tiêu chuẩn sân 11",
+        "kichthuocgon": "Tiêu chuẩn sân 11",
         "camaraFront": "Có",
         "cpu": "Cỏ thật",
         "ram": "Adidas",
@@ -337,7 +337,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 11",
         "denchieusang": "Trắng",
-        "camara": "Tiêu chuẩn sân 11",
+        "kichthuocgon": "Tiêu chuẩn sân 11",
         "camaraFront": "Có",
         "cpu": "Cỏ thật",
         "ram": "Adidas",
@@ -361,7 +361,7 @@ var list_products = [
     "detail": {
         "kichThuocSan": "Tiêu chuẩn sân 11",
         "denchieusang": "Trắng",
-        "camara": "Tiêu chuẩn sân 11",
+        "kichthuocgon": "Tiêu chuẩn sân 11",
         "camaraFront": "Có",
         "cpu": "Cỏ thật",
         "ram": "Adidas",

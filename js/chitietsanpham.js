@@ -82,8 +82,8 @@ function phanTich_URL_chiTietSanPham() {
     var info = document.getElementsByClassName('info')[0];
     var s = addThongSo('Kích thước sân', sanPhamHienTai.detail.kichThuocSan);
     s += addThongSo('Đèn chiếu sáng', sanPhamHienTai.detail.denchieusang);
-    s += addThongSo('Kích thước gôn', sanPhamHienTai.detail.camara);
-    s += addThongSo('Lưới', sanPhamHienTai.detail.camaraFront);
+    s += addThongSo('Kích thước gôn', sanPhamHienTai.detail.kichthuocgon);
+    s += addThongSo('Lưới', sanPhamHienTai.detail.kichthuocgonFront);
     s += addThongSo('Cỏ', sanPhamHienTai.detail.cpu);
     s += addThongSo('Bóng', sanPhamHienTai.detail.ram);
     s += addThongSo('Khung giờ', sanPhamHienTai.detail.rom);

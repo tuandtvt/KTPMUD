@@ -832,10 +832,10 @@ function getThongTinSanPhamFrom_TheGioiDiDong() {
 							result.detail.denchieusang = giatri;
 							break;
 						case "Camera sau:":
-							result.detail.camara = giatri;
+							result.detail.kichthuocgon = giatri;
 							break;
 						case "Camera trước:":
-							result.detail.camaraFront = giatri;
+							result.detail.kichthuocgonFront = giatri;
 							break;
 						case "CPU:":
 							result.detail.cpu = giatri;

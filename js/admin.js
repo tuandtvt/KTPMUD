@@ -475,11 +475,11 @@ function addKhungSuaSanPham(masp) {
         </tr>
         <tr>
             <td>Kích thước gôn:</td>
-            <td><input type="text" value="`+sp.detail.camara+`"></td>
+            <td><input type="text" value="`+sp.detail.kichthuocgon+`"></td>
         </tr>
         <tr>
             <td>Lưới:</td>
-            <td><input type="text" value="`+sp.detail.camaraFront+`"></td>
+            <td><input type="text" value="`+sp.detail.kichthuocgonFront+`"></td>
         </tr>
         <tr>
             <td>Cỏ:</td>
