@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tin tức -Quản Lý Sân Bóng</title>
+    <link rel="shortcut icon" href="img/favicon.ico" />
+
+    <!-- Load font awesome icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        crossorigin="anonymous">
+
+    <!-- our files -->
+    <!-- css -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/topnav.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/taikhoan.css">
+    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/tintuc.css">
+
+    <!-- js -->
+    <script src="data/products.js"></script>
+	<script src="js/dungchung.js"></script>
+    <script>
+        window.onload = function () {
+            khoiTao();
+            // thêm tags (từ khóa) vào khung tìm kiếm
+            var tags = ["Sân 5", "Sân 7 CT", "Sân 7 CT", "Sân 11 CT", "Sân 11 NT"];
+            for (var t of tags) addTags(t, "index.html?search=" + t);
+        }
+    </script>
+
+</head>
+
+<body>
+    <script> addTopNav();</script>
+
+    <section style="min-height: 85vh">
+        <script> addHeader(); </script>
+
+        <div class="body-tintuc">
+            <div class="tintuc-info">
+                <a href="https://vietnamnet.vn/tin-bong-da-8-2-mu-chot-carrasco-arsenal-ky-declan-rice-2108057.html" target="_blank">
+                    <img src="https://static-images.vnncdn.net/files/publish/2023/2/8/carrasco-637.jpg">
+                    <h2>MU chốt Carrasco, Arsenal mua Declan Rice giá kỷ lục</h2>
+                </a>
+                <br/>
+                
+            </div>
+            <div class="tintuc-info">
+                <a href="https://vietnamnet.vn/ket-qua-ha-tinh-vs-viettel-vong-2-v-league-2023-2108445.html" target="_blank">
+                    <img src="https://static-images.vnncdn.net/files/publish/2023/2/9/ha-tinh-vs-viettel-1055.jpg">
+                    <h2>Viettel cưa điểm với Hồng Lĩnh Hà Tĩnh
+                    </h2>
+                </a>
+                <br/>
+              
+            </div>
+            <div class="tintuc-info">
+                <a href="https://vietnamnet.vn/mu-2-2-leeds-mu-duoi-premier-league-gian-nan-cho-erik-ten-hag-2108353.html" target="_blank">
+                    <img src="https://static-images.vnncdn.net/files/publish/2023/2/9/mu-leeds-452.jpg">
+                    <h2>MU đuối sức ở Premier League: Gian nan chờ Erik ten Hag</h2>
+                </a>
+                <br/>
+            
+            </div>
+            <div class="tintuc-info">
+                <a href="https://vietnamnet.vn/super-league-dieu-chinh-de-thay-cup-c1-chau-au-2108420.html" target="_blank">
+                    <img src="https://static-images.vnncdn.net/files/publish/2023/2/9/super-league-590.jpg">
+                    <h2>Super League điều chỉnh, quyết thay Cúp C1 châu Âu</h2>
+                </a>
+                <br/>
+               
+            </div>
+            
+
+        </div>
+
+    </section>
+
+    <script> addContainTaiKhoan(); </script>
+
+    <div class="footer">
+        <script>addFooter();</script>
+        
+    </div>
+
+    <i class="fa fa-arrow-up" id="goto-top-page" onclick="gotoTop()"></i>
+
+</body>
+
+</html>
