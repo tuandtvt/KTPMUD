@@ -826,7 +826,7 @@ function getThongTinSanPhamFrom_TheGioiDiDong() {
 	
 					switch (loai) {
 						case "Màn hình:":
-							result.detail.kichThuocSan = giatri.replace('"', "'");
+							result.detail.kichthuocsan = giatri.replace('"', "'");
 							break;
 						case "Hệ điều hành:":
 							result.detail.denchieusang = giatri;

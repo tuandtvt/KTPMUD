@@ -80,7 +80,7 @@ function phanTich_URL_chiTietSanPham() {
 
     // Cập nhật thông số
     var info = document.getElementsByClassName('info')[0];
-    var s = addThongSo('Kích thước sân', sanPhamHienTai.detail.kichThuocSan);
+    var s = addThongSo('Kích thước sân', sanPhamHienTai.detail.kichthuocsan);
     s += addThongSo('Đèn chiếu sáng', sanPhamHienTai.detail.denchieusang);
     s += addThongSo('Kích thước gôn', sanPhamHienTai.detail.kichthuocgon);
     s += addThongSo('Lưới', sanPhamHienTai.detail.luoi);

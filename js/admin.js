@@ -467,7 +467,7 @@ function addKhungSuaSanPham(masp) {
         </tr>
         <tr>
             <td>Kích thước sân:</td>
-            <td><input type="text" value="`+sp.detail.kichThuocSan+`"></td>
+            <td><input type="text" value="`+sp.detail.kichthuocsan+`"></td>
         </tr>
         <tr>
             <td>Đèn chiếu sáng:</td>

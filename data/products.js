@@ -12,7 +12,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 5",
+        "kichthuocsan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
@@ -37,7 +37,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 5",
+        "kichthuocsan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
@@ -62,7 +62,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 5",
+        "kichthuocsan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
@@ -87,7 +87,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 5",
+        "kichthuocsan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
@@ -113,7 +113,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 5",
+        "kichthuocsan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
@@ -138,7 +138,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 5",
+        "kichthuocsan": "Tiêu chuẩn sân 5",
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
@@ -163,7 +163,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 7",
+        "kichthuocsan": "Tiêu chuẩn sân 7",
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
@@ -188,7 +188,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 7",
+        "kichthuocsan": "Tiêu chuẩn sân 7",
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
@@ -212,7 +212,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 7",
+        "kichthuocsan": "Tiêu chuẩn sân 7",
         "denchieusang": "Vàng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
@@ -237,7 +237,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 7",
+        "kichthuocsan": "Tiêu chuẩn sân 7",
         "denchieusang": "Vàng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
@@ -262,7 +262,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 7",
+        "kichthuocsan": "Tiêu chuẩn sân 7",
         "denchieusang": "Vàng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
@@ -287,7 +287,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 7",
+        "kichthuocsan": "Tiêu chuẩn sân 7",
         "denchieusang": "Vàng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
@@ -311,7 +311,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 11",
+        "kichthuocsan": "Tiêu chuẩn sân 11",
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 11",
         "luoi": "Có",
@@ -335,7 +335,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 11",
+        "kichthuocsan": "Tiêu chuẩn sân 11",
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 11",
         "luoi": "Có",
@@ -359,7 +359,7 @@ var list_products = [
         "value": ""
     },
     "detail": {
-        "kichThuocSan": "Tiêu chuẩn sân 11",
+        "kichthuocsan": "Tiêu chuẩn sân 11",
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 11",
         "luoi": "Có",
