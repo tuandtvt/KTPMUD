@@ -3,7 +3,7 @@
 
 2. Tài khoản các loại user
 
-   Tài khoản admin: admin    mật khẩu: ad12345
+   Tài khoản admin: admin    mật khẩu: adadad
 
    Tài khoản user:  trongtuan@gmail.com   mật khẩu: trongtuan
 
