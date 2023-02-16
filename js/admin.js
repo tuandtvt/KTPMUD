@@ -483,23 +483,23 @@ function addKhungSuaSanPham(masp) {
         </tr>
         <tr>
             <td>Cỏ:</td>
-            <td><input type="text" value="`+sp.detail.cpu+`"></td>
+            <td><input type="text" value="`+sp.detail.co+`"></td>
         </tr>
         <tr>
             <td>Bóng:</td>
-            <td><input type="text" value="`+sp.detail.ram+`"></td>
+            <td><input type="text" value="`+sp.detail.bong+`"></td>
         </tr>
         <tr>
             <td>Khung giờ:</td>
-            <td><input type="text" value="`+sp.detail.rom+`"></td>
+            <td><input type="text" value="`+sp.detail.khunggio+`"></td>
         </tr>
         <tr>
             <td>Trọng tài:</td>
-            <td><input type="text" value="`+sp.detail.microUSB+`"></td>
+            <td><input type="text" value="`+sp.detail.trongtai+`"></td>
         </tr>
         <tr>
             <td>Quay phát</td>
-            <td><input type="text" value="`+sp.detail.battery+`"></td>
+            <td><input type="text" value="`+sp.detail.quayphat+`"></td>
         </tr>
         <tr>
             <td colspan="2"  class="table-footer"> <button onclick="suaSanPham('`+sp.masp+`')">SỬA</button> </td>

@@ -372,7 +372,7 @@ function timKiemTheoRAM(list, luongRam, soluong) {
 	else count = list.length;
 
 	for (var i = 0; i < list.length; i++) {
-		if (parseInt(list[i].detail.ram) == luongRam) {
+		if (parseInt(list[i].detail.bong) == luongRam) {
 			result.push(list[i]);
 			count--;
 			if (count <= 0) break;

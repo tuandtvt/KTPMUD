@@ -84,11 +84,11 @@ function phanTich_URL_chiTietSanPham() {
     s += addThongSo('Đèn chiếu sáng', sanPhamHienTai.detail.denchieusang);
     s += addThongSo('Kích thước gôn', sanPhamHienTai.detail.kichthuocgon);
     s += addThongSo('Lưới', sanPhamHienTai.detail.luoi);
-    s += addThongSo('Cỏ', sanPhamHienTai.detail.cpu);
-    s += addThongSo('Bóng', sanPhamHienTai.detail.ram);
-    s += addThongSo('Khung giờ', sanPhamHienTai.detail.rom);
-    s += addThongSo('Trọng tài', sanPhamHienTai.detail.microUSB);
-    s += addThongSo('Quay phát', sanPhamHienTai.detail.battery);
+    s += addThongSo('Cỏ', sanPhamHienTai.detail.co);
+    s += addThongSo('Bóng', sanPhamHienTai.detail.bong);
+    s += addThongSo('Khung giờ', sanPhamHienTai.detail.khunggio);
+    s += addThongSo('Trọng tài', sanPhamHienTai.detail.trongtai);
+    s += addThongSo('Quay phát', sanPhamHienTai.detail.quayphat);
     info.innerHTML = s;
 
     // Cập nhật hình

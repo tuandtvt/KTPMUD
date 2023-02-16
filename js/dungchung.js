@@ -838,19 +838,19 @@ function getThongTinSanPhamFrom_TheGioiDiDong() {
 							result.detail.luoi = giatri;
 							break;
 						case "CPU:":
-							result.detail.cpu = giatri;
+							result.detail.co = giatri;
 							break;
 						case "RAM:":
-							result.detail.ram = giatri;
+							result.detail.bong = giatri;
 							break;
 						case "Bộ nhớ trong:":
-							result.detail.rom = giatri;
+							result.detail.khunggio = giatri;
 							break;
 						case "Thẻ nhớ:":
-							result.detail.microUSB = giatri;
+							result.detail.trongtai = giatri;
 							break;
 						case "Dung lượng pin:":
-							result.detail.battery = giatri;
+							result.detail.quayphat = giatri;
 							break;
 					}
 				}

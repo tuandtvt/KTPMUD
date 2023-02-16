@@ -16,11 +16,11 @@ var list_products = [
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
-        "cpu": "Nhân tạo",
-        "ram": "Động lực",
-        "rom": "16h-17h",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Nhân tạo",
+        "bong": "Động lực",
+        "khunggio": "16h-17h",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Dam0"
 },
@@ -41,11 +41,11 @@ var list_products = [
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
-        "cpu": "Nhân tạo",
-        "ram": "Động lực",
-        "rom": "16h-17h",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Nhân tạo",
+        "bong": "Động lực",
+        "khunggio": "16h-17h",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Dam"
 },
@@ -66,11 +66,11 @@ var list_products = [
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
-        "cpu": "Nhân tạo",
-        "ram": "Động lực",
-        "rom": "18h-20h",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Nhân tạo",
+        "bong": "Động lực",
+        "khunggio": "18h-20h",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Hoa0"
 },
@@ -91,11 +91,11 @@ var list_products = [
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
-        "cpu": "Nhân tạo",
-        "ram": "Adidas",
-        "rom": "15h-16h",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Nhân tạo",
+        "bong": "Adidas",
+        "khunggio": "15h-16h",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Hoa1"
 },
@@ -117,11 +117,11 @@ var list_products = [
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
-        "cpu": "Nhân tạo",
-        "ram": "Động lực",
-        "rom": "17h30-18h30",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Nhân tạo",
+        "bong": "Động lực",
+        "khunggio": "17h30-18h30",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Den"
 },
@@ -142,11 +142,11 @@ var list_products = [
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 5",
         "luoi": "Có",
-        "cpu": "Nhân tạo",
-        "ram": "Adidas",
-        "rom": "1h-2h",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Nhân tạo",
+        "bong": "Adidas",
+        "khunggio": "1h-2h",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Tha"
 },
@@ -167,11 +167,11 @@ var list_products = [
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
-        "cpu": "Thật",
-        "ram": "Adidas",
-        "rom": "16h-17h30",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Thật",
+        "bong": "Adidas",
+        "khunggio": "16h-17h30",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Lag"
 },
@@ -192,11 +192,11 @@ var list_products = [
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
-        "cpu": "Thật",
-        "ram": "Adidas",
-        "rom": "16h-17h30",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Thật",
+        "bong": "Adidas",
+        "khunggio": "16h-17h30",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Lag1"
 },{
@@ -216,11 +216,11 @@ var list_products = [
         "denchieusang": "Vàng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
-        "cpu": "Thật",
-        "ram": "Adidas",
-        "rom": "1630h-18h30",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Thật",
+        "bong": "Adidas",
+        "khunggio": "1630h-18h30",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Cau"
 },
@@ -241,11 +241,11 @@ var list_products = [
         "denchieusang": "Vàng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
-        "cpu": "Thật",
-        "ram": "Động lực",
-        "rom": "18h30-20h30",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Thật",
+        "bong": "Động lực",
+        "khunggio": "18h30-20h30",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Bin"
 },
@@ -266,11 +266,11 @@ var list_products = [
         "denchieusang": "Vàng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
-        "cpu": "Nhân tạo",
-        "ram": "Động lực",
-        "rom": "18h30-20h30",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Nhân tạo",
+        "bong": "Động lực",
+        "khunggio": "18h30-20h30",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Kin"
 },
@@ -291,11 +291,11 @@ var list_products = [
         "denchieusang": "Vàng",
         "kichthuocgon": "Tiêu chuẩn sân 7",
         "luoi": "Có",
-        "cpu": "Nhân tạo",
-        "ram": "Adidas",
-        "rom": "18h30-20h30",
-        "microUSB": "Không",
-        "battery": "Tùy chọn"
+        "co": "Nhân tạo",
+        "bong": "Adidas",
+        "khunggio": "18h30-20h30",
+        "trongtai": "Không",
+        "quayphat": "Tùy chọn"
     },
     "masp": "Xay"
 },{
@@ -315,11 +315,11 @@ var list_products = [
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 11",
         "luoi": "Có",
-        "cpu": "Cỏ thật",
-        "ram": "Adidas",
-        "rom": "18h30-20h30",
-        "microUSB": "Có",
-        "battery": "Có"
+        "co": "Cỏ thật",
+        "bong": "Adidas",
+        "khunggio": "18h30-20h30",
+        "trongtai": "Có",
+        "quayphat": "Có"
     },
     "masp": "Tam"
 },{
@@ -339,11 +339,11 @@ var list_products = [
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 11",
         "luoi": "Có",
-        "cpu": "Cỏ thật",
-        "ram": "Adidas",
-        "rom": "18h30-20h30",
-        "microUSB": "Có",
-        "battery": "Có"
+        "co": "Cỏ thật",
+        "bong": "Adidas",
+        "khunggio": "18h30-20h30",
+        "trongtai": "Có",
+        "quayphat": "Có"
     },
     "masp": "Yen"
 },{
@@ -363,11 +363,11 @@ var list_products = [
         "denchieusang": "Trắng",
         "kichthuocgon": "Tiêu chuẩn sân 11",
         "luoi": "Có",
-        "cpu": "Cỏ thật",
-        "ram": "Adidas",
-        "rom": "18h30-20h30",
-        "microUSB": "Có",
-        "battery": "Có"
+        "co": "Cỏ thật",
+        "bong": "Adidas",
+        "khunggio": "18h30-20h30",
+        "trongtai": "Có",
+        "quayphat": "Có"
     },
     "masp": "MyD"
 },
