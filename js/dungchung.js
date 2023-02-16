@@ -1,6 +1,6 @@
 var adminInfo = [{
     "username": "admin",
-    "pass": "adadad"
+    "pass": "123456"
 }];
 
 function getListAdmin() {
