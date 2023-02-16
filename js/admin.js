@@ -479,7 +479,7 @@ function addKhungSuaSanPham(masp) {
         </tr>
         <tr>
             <td>Lưới:</td>
-            <td><input type="text" value="`+sp.detail.kichthuocgonFront+`"></td>
+            <td><input type="text" value="`+sp.detail.luoi+`"></td>
         </tr>
         <tr>
             <td>Cỏ:</td>
