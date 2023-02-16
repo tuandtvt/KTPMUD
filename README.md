@@ -1,11 +1,11 @@
 1. Link web
-Đang cập nhật...
+https://github.com/tuandtvt/KTPMUD
 
 2. Tài khoản các loại user
 
-   Tài khoản admin: admin    mật khẩu: adadad
+   Tài khoản admin: admin    mật khẩu: 123456
 
-   Tài khoản user:  trongtuan@gmail.com   mật khẩu: trongtuan
+   Tài khoản user:  tuantuan   mật khẩu: tuantuan
 
 3. Link github
 https://github.com/tuandtvt/KTPMUD
