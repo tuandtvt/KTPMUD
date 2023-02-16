@@ -5,7 +5,7 @@ https://github.com/tuandtvt/KTPMUD
 
    Tài khoản admin: admin    mật khẩu: 123456
 
-   Tài khoản user:  tuantuan   mật khẩu: tuantuan
+   Tài khoản user:    mật khẩu: tuantuan
 
 3. Link github
 https://github.com/tuandtvt/KTPMUD
