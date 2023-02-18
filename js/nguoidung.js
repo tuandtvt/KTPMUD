@@ -238,7 +238,7 @@ function addDonHang(dh) {
             <table class="listSanPham">
                 <tr> 
                     <th colspan="6">
-                        <h3 style="text-align:center;"> Đơn hàng ngày: ` + new Date(dh.ngaymua).toLocaleString() + `</h3> 
+                        <h3 style="text-align:center;"> Thời gian đặt: ` + new Date(dh.ngaymua).toLocaleString() + `</h3> 
                     </th>
                 </tr>
                 <tr>
