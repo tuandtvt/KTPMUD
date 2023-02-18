@@ -1,5 +1,6 @@
+1. Link web
+https://github.com/tuandtvt/KTPMUD
 
-<<<<<<< HEAD
 2. Tài khoản các loại user
 
    Tài khoản admin: admin    mật khẩu: 123456
@@ -13,5 +14,3 @@ https://github.com/tuandtvt/KTPMUD
 
 5. Link Wordpress 
 https://et3260.wordpress.com/2022/11/11/nhom-20-project/
-=======
->>>>>>> origin/main
