@@ -28,7 +28,7 @@ var list_products = [
     
     "name": "Dam Hong 1",
     "company": "San5",
-    "img": "img/san-bong-co-nhan-tao-khu-noi-tru-viet-tri-1.jpg",
+    "img": "img/anhdabong.jfif",
     "price": "500000",
     "star": 3.8,
     "rateCount": 23,
